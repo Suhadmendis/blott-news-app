@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "rent-a-car",
+    "name": "blott-news-app",
     "slug": "blott-news-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.suhadmendis.blottnewsapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
