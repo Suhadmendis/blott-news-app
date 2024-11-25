@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "rent-a-car",
-    "slug": "rent-a-car",
+    "slug": "blott-news-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eeeb54af-de25-4310-8a18-86a99363b008"
+      }
+    },
+    "owner": "suhadmendis"
   }
 }
